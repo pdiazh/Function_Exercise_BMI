@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _12._9._22_Function_Exercise_BODY_MASS_INDEX
+build_property.ProjectDir = C:\Users\MCA\source\repos\12.9.22 Function Exercise BODY MASS INDEX\

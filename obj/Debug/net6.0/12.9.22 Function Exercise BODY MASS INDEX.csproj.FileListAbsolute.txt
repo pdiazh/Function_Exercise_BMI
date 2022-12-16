@@ -1,0 +1,15 @@
+C:\Users\MCA\source\repos\12.9.22 Function Exercise BODY MASS INDEX\bin\Debug\net6.0\12.9.22 Function Exercise BODY MASS INDEX.exe
+C:\Users\MCA\source\repos\12.9.22 Function Exercise BODY MASS INDEX\bin\Debug\net6.0\12.9.22 Function Exercise BODY MASS INDEX.deps.json
+C:\Users\MCA\source\repos\12.9.22 Function Exercise BODY MASS INDEX\bin\Debug\net6.0\12.9.22 Function Exercise BODY MASS INDEX.runtimeconfig.json
+C:\Users\MCA\source\repos\12.9.22 Function Exercise BODY MASS INDEX\bin\Debug\net6.0\12.9.22 Function Exercise BODY MASS INDEX.dll
+C:\Users\MCA\source\repos\12.9.22 Function Exercise BODY MASS INDEX\bin\Debug\net6.0\12.9.22 Function Exercise BODY MASS INDEX.pdb
+C:\Users\MCA\source\repos\12.9.22 Function Exercise BODY MASS INDEX\obj\Debug\net6.0\12.9.22 Function Exercise BODY MASS INDEX.csproj.AssemblyReference.cache
+C:\Users\MCA\source\repos\12.9.22 Function Exercise BODY MASS INDEX\obj\Debug\net6.0\12.9.22 Function Exercise BODY MASS INDEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA\source\repos\12.9.22 Function Exercise BODY MASS INDEX\obj\Debug\net6.0\12.9.22 Function Exercise BODY MASS INDEX.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\12.9.22 Function Exercise BODY MASS INDEX\obj\Debug\net6.0\12.9.22 Function Exercise BODY MASS INDEX.AssemblyInfo.cs
+C:\Users\MCA\source\repos\12.9.22 Function Exercise BODY MASS INDEX\obj\Debug\net6.0\12.9.22 Function Exercise BODY MASS INDEX.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\12.9.22 Function Exercise BODY MASS INDEX\obj\Debug\net6.0\12.9.22 Function Exercise BODY MASS INDEX.dll
+C:\Users\MCA\source\repos\12.9.22 Function Exercise BODY MASS INDEX\obj\Debug\net6.0\refint\12.9.22 Function Exercise BODY MASS INDEX.dll
+C:\Users\MCA\source\repos\12.9.22 Function Exercise BODY MASS INDEX\obj\Debug\net6.0\12.9.22 Function Exercise BODY MASS INDEX.pdb
+C:\Users\MCA\source\repos\12.9.22 Function Exercise BODY MASS INDEX\obj\Debug\net6.0\12.9.22 Function Exercise BODY MASS INDEX.genruntimeconfig.cache
+C:\Users\MCA\source\repos\12.9.22 Function Exercise BODY MASS INDEX\obj\Debug\net6.0\ref\12.9.22 Function Exercise BODY MASS INDEX.dll
